@@ -1,0 +1,62 @@
+body
+{
+	background-image: url(background.jpeg);
+	background-attachment: scroll;
+	background-repeat: repeat;
+}
+
+a
+{
+	font-size: 24px;
+	text-decoration: none;
+	color: orange;
+}
+
+header
+{
+	margin-right: 200px;
+	margin-left: 200px;
+}
+
+#main-banner
+{
+	max-width: 100%;
+	max-height: 25%;
+}
+
+nav
+{
+	margin-right: 200px;
+	margin-left: 200px;
+	background-color: white;
+	border: 5px black groove;
+}
+
+#container
+{
+	display: flex;
+}
+
+.element
+{
+	padding-top: 12px;
+	padding-bottom: 12px;
+	margin: auto;
+
+}
+
+article
+{
+	margin-top: 5px;
+	margin-right: 200px;
+	margin-left: 200px;
+	margin-bottom: auto;
+	background-color: white;
+	border: 5px black groove;
+
+}
+
+footer
+{
+
+}
